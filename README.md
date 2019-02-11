@@ -1,3 +1,4 @@
-# nome: Renan
-# Empresa: Issam
-# função: Analista de Suporte Infra
+# Informações
+* nome: Renan
+* Empresa: Issam
+* função: Analista de Suporte Infra
